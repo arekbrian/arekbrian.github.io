@@ -1,1 +1,1 @@
-![readme-image](images/readme-image.jpg)
+![readme-image](images/readme-image.png)
