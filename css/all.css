@@ -548,7 +548,7 @@ span {
  }
 
  
-        body {
+body {
             background: linear-gradient(135deg, #1f242d, #323946);
             font-family: 'Arial', sans-serif;
             margin: 0;
@@ -592,6 +592,3 @@ span {
             width: 150px;
             height: 130px;
         }
-    
-
- 
