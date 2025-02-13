@@ -1,1 +1,1 @@
-![portfolio2](images/portfolio1.jpg)
+![readme-image](images/readme-image.jpg)
