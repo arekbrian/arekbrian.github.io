@@ -547,20 +547,7 @@ span {
   box-sizing: border-box ;
  }
 
- 
-body {
-            background: linear-gradient(135deg, #1f242d, #323946);
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            text-align: center;
-            color: #fff;
-        }
-        .thank-you-container {
+ .thank-you-container {
             background: rgba(0, 0, 0, 0.5);
             padding: 40px;
             border-radius: 12px;
