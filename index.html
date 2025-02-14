@@ -166,25 +166,24 @@
         </div>
       </section>
       <!--contact section design-->
-      <section class="contact" id="contact">
-        <h2 class="heading">Contact <span>Me!</span></h2>
-        <form id="contact_form" action="https://formspree.io/f/xovjnbdl" method="POST">
-          <div class="input-box">
-            <input type="text" name="name" id="name" placeholder="Full Name" required>
-            <input type="email" name="email" id="email" placeholder="Email Address" required>
-          </div>
-          <div class="input-box">
-            <input type="tel" name="phone" id="phone" placeholder="Mobile Number" required>
-            <input type="text" name="subject" id="subject" placeholder="Email Subject">
-          </div>
-          <textarea name="message" cols="30" rows="10" id="message" placeholder="Your Message" required></textarea>
-          <input type="submit" id="SubmitButton" value="Send Message" class="btn">
-        </form>
-        <p id="output"></p>
-      </section>
-      
-      
-      <!--footer design-->
+<section class="contact" id="contact">
+  <h2 class="heading">Contact <span>Me!</span></h2>
+  <form id="contact_form" action="https://formspree.io/f/xovjnbdl" method="POST" autocomplete="on">
+      <div class="input-box">
+          <input type="text" name="name" id="name" placeholder="Full Name" required autocomplete="name">
+          <input type="email" name="email" id="email" placeholder="Email Address" required autocomplete="email">
+      </div>
+      <div class="input-box">
+          <input type="tel" name="phone" id="phone" placeholder="Mobile Number" required autocomplete="tel">
+          <input type="text" name="subject" id="subject" placeholder="Email Subject" autocomplete="off">
+      </div>
+      <textarea name="message" cols="30" rows="10" id="message" placeholder="Your Message" required autocomplete="off"></textarea>
+      <input type="submit" id="SubmitButton" value="Send Message" class="btn">
+  </form>
+  <p id="output"></p>
+</section>
+   
+<!--footer design-->
       <footer class="footer">
         <div class="footer-text">
           <p>Copyright &copy; 2025 by Brian | All Rights Reserved.</p>
