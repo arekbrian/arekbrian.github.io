@@ -11,7 +11,7 @@ Created by BRIAN AREK <br>
 Contact information: <br>
 <a href="https://github.com/arekbrian">GitHub</a> <br>
 <a href="https://www.linkedin.com/in/brian-arek-8336361a4/">LinkedIn</a> <br>
-<a href="https://www.facebook.com/">Facebook</a> <br>
+<a href="https://www.facebook.com/AREKBRIA">Facebook</a> <br>
 <a href="https://twitter.com/BrianArek">Twitter</a> <br>
 <a href="https://www.instagram.com/brian.arek/">Instagram</a> <br>
 <a href="https://www.youtube.com/channel/UCw0q48y6hq1W86j3607j8QA">YouTube</a> <br>
