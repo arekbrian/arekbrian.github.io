@@ -13,5 +13,5 @@ Contact information: <br>
 <a href="https://www.linkedin.com/in/brian-arek-8336361a4/">LinkedIn</a> <br>
 <a href="https://www.facebook.com/AREKBRIA">Facebook</a> <br>
 <a href="https://twitter.com/BrianArek_ke/">Twitter</a> <br>
-<a href="https://www.instagram.com/">Instagram</a> <br>
+<a href="https://www.instagram.com/brianarek_ke/">Instagram</a> <br>
 <a href="https://www.youtube.com/channel/UCw0q48y6hq1W86j3607j8QA">YouTube</a> <br>
