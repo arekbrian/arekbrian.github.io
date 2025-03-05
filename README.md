@@ -4,4 +4,4 @@
 
 ![readme-image](images/readme-image.png) <br>
 
-Crea
+Creat
