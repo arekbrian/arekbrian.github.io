@@ -4,4 +4,4 @@
 
 ![readme-image](images/readme-image.png) <br>
 
-Created with HTML,  CSS, Javascri
+Created with HTML,  CSS, Javascrip
