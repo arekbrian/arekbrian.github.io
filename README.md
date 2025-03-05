@@ -7,4 +7,4 @@
 Created with HTML,  CSS, Javascript.
 
  <br>
-Creat
+Create
