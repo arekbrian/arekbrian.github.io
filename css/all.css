@@ -146,7 +146,7 @@ span {
   background: var(--main-color);
   border-radius: 4rem;
   /* box-shadow: 0 0 1rem var(--main-color); */
-  box-shadow: 0 0 0.5rem var(--main-color);
+  box-shadow: none;
   font-size: 1.6rem;
   color: var(--second-bg-color);
   letter-spacing: .1rem;
@@ -166,7 +166,7 @@ span {
   transition: all 0.3s ease;
 }
 .btn:hover {
-  box-shadow: none;
+  box-shadow: 0 0 0.5rem var(--main-color);
 }
 .about {
   display: flex;
