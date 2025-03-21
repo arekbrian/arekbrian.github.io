@@ -1,37 +1,20 @@
-<head>
-  <!-- Add Font Awesome stylesheet -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-</head>
-<p><strong> The entire look of the portfolio</strong> </p>
+# The entire look of the portfolio
 
-![video-display](images/video-display.gif) <br>
+![video-display](images/video-display.gif)  
+![readme-image](images/readme-image.png)  
 
-![readme-image](images/readme-image.png) <br>
+Created with HTML, CSS, and JavaScript.  
 
-Created with HTML,  CSS, Javascript.
+Created by **BRIAN AREK**  
 
- <br>
-Created by BRIAN AREK <br>
-Contact information: <br>
-<a href="https://github.com/arekbrian" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a> <br>
+Contact information:  
 
-<a href="https://www.linkedin.com/in/brian-arek-8336361a4/" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a> <br>
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/a/ae/GitHub_Logo_2018.png)](https://github.com/arekbrian)  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/brian-arek-8336361a4/)  
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/AREKBRIA)  
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/BrianArek_ke/)  
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/brianarek_ke/)
 
-<a href="https://www.facebook.com/AREKBRIA" target="_blank">
-  <i class="fab fa-facebook"></i> Facebook
-</a> <br>
-
-<a href="https://twitter.com/BrianArek_ke/" target="_blank">
-  <i class="fab fa-twitter"></i> Twitter
-</a> <br>
-
-<a href="https://www.instagram.com/brianarek_ke/" target="_blank">
-  <i class="fab fa-instagram"></i> Instagram
-</a> <br>
 
 <!-- <a href="https://github.com/arekbrian">GitHub</a> <br>
 <a href="https://www.linkedin.com/in/brian-arek-8336361a4/">LinkedIn</a> <br>
