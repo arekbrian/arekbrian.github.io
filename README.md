@@ -1,3 +1,7 @@
+<head>
+  <!-- Add Font Awesome stylesheet -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
 <p><strong> The entire look of the portfolio</strong> </p>
 
 ![video-display](images/video-display.gif) <br>
