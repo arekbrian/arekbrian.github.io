@@ -10,7 +10,7 @@ Created by **BRIAN AREK**
 Contact information:  
 
 <a href="https://github.com/arekbrian">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/GitHub_Logo_2018.png" width="20" height="20" />
+  <img src="https://img.icons8.com/ios/452/github.png" width="20" height="20" />
 </a>  
 <a href="https://www.linkedin.com/in/brian-arek-8336361a4/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" />
@@ -19,7 +19,7 @@ Contact information:
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20" />
 </a>  
 <a href="https://twitter.com/BrianArek_ke/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="20" height="20" />
+  <img src="https://img.icons8.com/ios/452/twitter.png" width="20" height="20" />
 </a>  
 <a href="https://www.instagram.com/brianarek_ke/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20" />
