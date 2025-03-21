@@ -19,7 +19,7 @@ Contact information:
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20" />
 </a>  
 <a href="https://twitter.com/BrianArek_ke/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/X_logo_2023.svg" width="20" height="20" />
+  <img src="https://en.m.wikipedia.org/wiki/File:X_logo_2023.svg" width="20" height="20" />
 </a>  
 <a href="https://www.instagram.com/brianarek_ke/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20" />
