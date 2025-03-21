@@ -16,7 +16,7 @@ Contact information:
   <img src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" width="20" height="20" />
 </a>  
 <a href="https://www.facebook.com/AREKBRIA">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20" />
+  <img src="https://www.svgrepo.com/show/303114/facebook-3-logo.svg" width="20" height="20" />
 </a>  
 <a href="https://twitter.com/BrianArek_ke/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/450px-X_logo_2023.svg.png" width="20" height="20" />
