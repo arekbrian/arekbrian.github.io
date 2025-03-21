@@ -13,13 +13,13 @@ Contact information:
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" height="20" />
 </a>  
 <a href="https://www.linkedin.com/in/brian-arek-8336361a4/">
-  <i class="fab fa-linkedin" style="font-size: 20px;"></i>
+  <img src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" width="20" height="20" />
 </a>  
 <a href="https://www.facebook.com/AREKBRIA">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20" />
 </a>  
 <a href="https://twitter.com/BrianArek_ke/">
-  <i class="fab fa-x-twitter" style="font-size: 20px;"></i>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/X_logo_2023.svg" width="20" height="20" />
 </a>  
 <a href="https://www.instagram.com/brianarek_ke/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20" />
