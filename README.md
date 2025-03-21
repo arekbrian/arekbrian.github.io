@@ -16,7 +16,7 @@ Contact information:
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013-2019.svg" width="20" height="20" />
 </a>  
 <a href="https://www.facebook.com/AREKBRIA">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/F_icon.svg" width="20" height="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="20" height="20" />
 </a>  
 <a href="https://twitter.com/BrianArek_ke/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/X_logo_2023.svg" width="20" height="20" />
